@@ -63,16 +63,3 @@ The **Vehicle Parking App** is a robust, full-stack web application . It support
 
 ---
 
-## Getting Started
-
-> *(These are example instructions. You can tailor them based on your repo structure.)*
-
-### Backend Setup
-
-```bash
-git clone <repo-url>
-cd backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-flask run
